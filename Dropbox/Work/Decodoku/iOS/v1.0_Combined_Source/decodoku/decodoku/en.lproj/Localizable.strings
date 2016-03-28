@@ -1,0 +1,78 @@
+/* 
+  Localizable.strings
+  decodoku
+
+*/
+
+//menu
+
+"PLAY" = "PLAY";
+
+"HOW TO PLAY" = "HOW TO PLAY";
+
+"RESULTS" = "RESULTS";
+
+"SCIENCE" = "SCIENCE!";
+
+"CREDITS" = "CREDITS";
+
+"ON" = "MUSIC: ON";
+
+"OFF" = "MUSIC: OFF";
+
+// game
+
+"NEW" = "NEW GAME";
+
+"MENU" = "MENU";
+
+"Score" = "Score:";
+
+"High" = "High Score:";
+
+// tutorial
+
+"tuttext1a" = "The game \U2124 10 has numbers in small groups. Every group adds up to a multiple of 10. In this tutorial the groups are shown with different colours, but it's your job to figure them out in the game.";
+
+"tuttext1b" = "The numbers change over time. New groups will come and old ones can get bigger and change shape. In this tutorial changes are shown in red squares, but in the game you'll have to figure these out too.";
+
+"tuttext2" = "Once a group stretches across the grid, the game ends.\n\nIt's your job to delay this as long as possible. The longer you last, the higher your score.";
+
+"tuttext3a" = "To keep the numbers under control you can move them around.\n\nThey can be dragged to neighbouring squares.";
+
+"tuttext3b" = "When two numbers combine, they add up. Multiples of 10 disappear. Use this to get rid of the groups, or to keep them small.";
+
+"tuttext4a" = "The game \U03A6-\U039B is almost the same. Instead of knowing exactly what the numbers are...";
+
+"tuttext4b" = "...you only know whether they are a 5 (shown by a \U039B) or something else (a \U03A6).";
+
+"NEXT" = "Next";
+
+// science
+
+"science" = "This game is more than just a game. It gives you all you need to conduct scientific research in the field of quantum error correction.\n\nThe grid represents a device that can protect a quantum computer against errors. The numbers are traces of the errors. When you remove the groups of numbers, you remove the errors too. Find a good method and share it with us. You could help us to build a real quantum computer!\n\nMore information at:\n\ndecodoku.blogspot.com (English)\n\ndecodokuDE.blogspot.com (German)";
+
+// results
+
+"Results Z" = "Results for \U2124 10";
+
+"Results P-L" = "Results for \U03A6-\U039B";
+
+"Delete" = "Delete Data";
+
+"High2" = "High Score";
+
+"Number" = "Number of Plays";
+
+"Average" = "Average Score";
+
+// credits
+
+"credits" = "Developed and programmed by\nDr James Wootton\n\nArt by Marjana Jaigirdar\n\nMade with support from:\nNCCR QSIT\nUniversity of Basel\n\nMusic: \"Bit Quest\" by Kevin MacLeod (incompetech.com)\nLicensed under Creative Commons:\nBy Attribution 3.0 License\nhttp://creativecommons.org/licenses/by/3.0/";
+
+// everywhere
+
+"Menu" = "Menu";
+
+
+

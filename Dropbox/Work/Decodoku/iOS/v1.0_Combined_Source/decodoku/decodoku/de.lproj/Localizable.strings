@@ -1,0 +1,83 @@
+/* 
+  Localizable.strings
+  decodoku
+
+  Created by James on 12/03/16.
+  Copyright © 2016 James Wootton. All rights reserved.
+*/
+
+//menu
+
+"PLAY" = "SPIELEN";
+
+"HOW TO PLAY" = "ANLEITUNG";
+
+"RESULTS" = "STATISTIKEN";
+
+"SCIENCE" = "WISSENSCHAFT!";
+
+"CREDITS" = "MITWIRKENDE";
+
+"OFF" = "MUSIK: AUS";
+
+"ON" = "MUSIK: EIN";
+
+// game
+
+"NEW" = "NOCHMAL";
+
+"MENU" = "MENU";
+
+"Score" = "Punkte";
+
+"High" = "Highscore:";
+
+// tutorial
+
+"tuttext1a" = "Das Spiel \U2124 10 hat Nummern in kleinen Gruppen. Jede Gruppe summiert sich zu 10. Hier sind die Gruppen in verschiedenen Farben gezeigt. In dem Spiel ist es nicht so einfach.";
+
+"tuttext1b" = "Neue Gruppen werden kommen und alte Gruppen können ihre Forme und Größe gewechseln.\n\nVeränderungen sind hier in rote Zellen gezeigt.";
+
+"tuttext2" = "Wenn eine Gruppe von links nach rechts oder oben bis unten spannt, ist alles verloren. Du musst das verhindern.";
+
+"tuttext3a" = "Du musst die Nummern unter Kontrolle halten.\n\nDu kannst sie bewegen, indem du sie zu einer benachbarten Zelle ziehen.
+"tuttext3b" = "Wenn zwei Nummern vereinigen, summiern sie sich. Vielfaches von 10 werden verschwinden.";
+
+"tuttext4a" = "Das Spiel \U03A6-\U039B ist fast genauso wie \U2124 10. Statt dir alles über die Nummern zu wissen,...";
+
+"tuttext4b" = "...weißt du nur ob jeder ein 5 ist (dargestellt als ein \U039B) oder etwas anders (ein \U03A6).";
+
+"NEXT" = "Weiter";
+
+
+// science
+
+"science" = "Dieses Spiel ist mehr als ein Spiel. Es deckt alles ab, was man für die Forschung im Bereich Quantenfehlerkorrektur braucht.\n\nDas Raster darstellt ein Gerät, dass ein Quantencomputer gegen Fehler beschützen kann. Die Nummern sind eine Spur von den Fehler. Wenn du die Nummern entfernst, entfernt du auch die Fehler. Finde eine gute Methode und teile sie mit uns. Du konntest uns hilfen, ein Quantencomputer zu bauen!\n\nWeitere Informationen bei:\ndecodokuDE.blogspot.com";
+
+// credits
+
+"credits" = "Entwickler:\nDr James Wootton\n\nIllustratorin:\nMarjana Jaigirdar\n\nUnterstützung:\nNCCR QSIT\nUniversität Basel\n\nBesondere Dank geht an:\nMansura Wootton and Christoph Klöffel\n\nMusik: \"Bit Quest\" by Kevin MacLeod (incompetech.com)\nLicensed under Creative Commons:\nBy Attribution 3.0 License\nhttp://creativecommons.org/licenses/by/3.0/";
+
+// results
+
+"Results Z" = "Statistiken: \U2124 10";
+
+"Results P-L" = "Statistiken: \U03A6-\U039B";
+
+"Delete" = "Data Löschen";
+
+"High2" = "Highscore";
+
+"Number" = "Anzahl von Spielen";
+
+"Average" = "Mittelwert";
+
+// everywhere
+
+"Menu" = "Menü";
+
+
+
+
+
+
